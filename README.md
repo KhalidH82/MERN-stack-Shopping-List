@@ -1,9 +1,9 @@
 MERN stack app
 
+This React/Redux based application is a simple shopping list which is connected to MongoDB through mLab and uses the Express framework on the server.
+Please click photo to use application which has been hosted on Heroku
 Shopping List
 <a href="https://stormy-lake-31063.herokuapp.com"/><img src="shopping.png"></a>
-
-This React/Redux based application is a simple shopping list which is connected to MongoDB through mLab and uses the Express framework on the server. 
 
 Technologies Used: 
 React.js/Redux
